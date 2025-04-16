@@ -633,6 +633,7 @@ fill: #fff;
     width: 408px;
     min-height: 584px;
     border-radius: 4px;
+    padding-top: 72px;
     padding-right: 24px;
     padding-bottom: 24px;
     padding-left: 24px;
@@ -683,8 +684,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-padding-top: 72px;
-margin-bottom: 5px;
+
+margin-bottom: 16px;
 }
 
 .form-modal {
